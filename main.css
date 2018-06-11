@@ -1,0 +1,75 @@
+html,
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+    .container {
+        width: 100vw;
+        height: 100vh;  
+}
+        .navbar {
+            position: sticky;
+            top: 0;
+            height: 70px;
+            width: 100%;
+            display: flex;
+            background-color: rgb(250,250,250)
+}
+
+        .conteudo {
+            width: 100vw;
+            height: 100vh;
+
+            .img_viagem {
+                margin: 0;
+                top: 0;
+                
+            }
+}
+            .title {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 16px;
+                letter-spacing: 
+                justify-content: center;
+                float: left;
+                padding: 15px;
+                margin: auto;
+            }
+
+            .logo {
+                float: left;
+                justify-content: center;
+                align-items: center;
+                padding: 23px 12px 23px 0;
+            }
+
+            .blank {
+                flex-grow: 1;
+            }
+
+            .home {
+                float: right;
+                justify-content: center;
+                padding: 15px;
+                
+            }
+
+            .sobre {
+                font-size: 18px;
+                float: right;
+                justify-content: center;
+                padding: 15px 35px 15px 15px;
+            }
+                .space {
+                    float: right;
+                    text-align: center;
+                    padding: 15px;
+                }
+
+    .footer {
+        padding: 15px;
+        margin: 0;
+    }
+ 
