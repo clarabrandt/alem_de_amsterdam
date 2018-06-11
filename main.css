@@ -7,7 +7,8 @@ body {
 
     .container {
         width: 100vw;
-        height: 100vh;  
+        height: 100vh; 
+        border-bottom: 0.2em solid lightgrey; 
 }
         .navbar {
             position: sticky;
@@ -15,7 +16,7 @@ body {
             height: 70px;
             width: 100%;
             display: flex;
-            background-color: rgb(250,250,250)
+            background-color: rgb(250,250,250);
 }
 
         .conteudo {
@@ -69,7 +70,8 @@ body {
                 }
 
     .footer {
-        padding: 15px;
+        padding-left: 15px;
         margin: 0;
+        line-height: 0.2em
     }
  
